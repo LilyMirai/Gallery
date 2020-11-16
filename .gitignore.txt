@@ -1,0 +1,5 @@
+GalleryData/
+
+.idea/
+
+savedata.txt
